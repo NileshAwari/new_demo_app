@@ -1,6 +1,7 @@
 // Listen for real-time events and show popup
 // Listen for custom events and show popup
 // Example: frappe.realtime.on('my_action', ...)
+//update - 1
 
 // List of custom action types to listen for
 const customActionTypes = [
