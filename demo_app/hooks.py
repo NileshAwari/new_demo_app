@@ -7,5 +7,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "your@email.com"
 app_license = "MIT"
-app_include_js = "/assets/demo_app/js/demo_events.js"
-app_include_js += "\n/assets/demo_app/js/test_asset.js"
+app_include_js = [
+	"/assets/demo_app/js/demo_events.js",
+	"/assets/demo_app/js/test_asset.js"
+]
